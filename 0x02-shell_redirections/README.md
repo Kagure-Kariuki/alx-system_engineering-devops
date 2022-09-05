@@ -1,1 +1,2 @@
-My first shell redirection
+#!/bin/bash
+Hello, World
